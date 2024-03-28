@@ -15,4 +15,4 @@ const multiplesOfThree = () => {
     }
   };
   multiplesOfThree();
-  //Question 2 tested and complete number #2
+  //Question 2 tested and complete number #2 again
